@@ -3,3 +3,5 @@ Adds SOME not ALL features of the Chaos Cubed Drop from Minecraft Bedrock/Java. 
 INSTALLATION: Download the latest .mcaddon file for the Releases section. This insures you have the latest Patch for Bug fixes!
 Windows: Download the file and then ensure you have Minecraft Education Edition from the Microsoft Store. Then Go into files and Double click the File and It will Import for you! Or Right Click the File and Say Open Then Open With Minecraft Education unless saying open Automatically opens file! Done!
 Android: Download file and the go into your file manager and click the file ONCE. If that doesn't work, I would recommend installing file manager plus from the Google Play Store and then Clicking your file to install. Enjoy!
+
+If You have an Idea in the future for a Pre-Release, tell me an idea! I can maybe do it.
