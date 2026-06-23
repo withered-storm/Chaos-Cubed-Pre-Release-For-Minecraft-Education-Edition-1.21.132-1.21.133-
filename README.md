@@ -5,3 +5,4 @@ Windows: Download the file and then ensure you have Minecraft Education Edition 
 Android: Download file and the go into your file manager and click the file ONCE. If that doesn't work, I would recommend installing file manager plus from the Google Play Store and then Clicking your file to install. Enjoy!
 
 If You have an Idea in the future for a Pre-Release, tell me an idea! I can maybe do it.
+Also the Addon Requires Minecraft Education 1.21.132.1 or 1.21.133.4 also just called 1.21.132 and 1.21.133.
